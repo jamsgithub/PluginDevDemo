@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:2:11-44
+		INJECTED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml
+		INJECTED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml
+		INJECTED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml
+		INJECTED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml
+application
+ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\God\.android\build-cache\458a426a3589a60c10909f4f2af3f56c7259e342\output\AndroidManifest.xml:9:5-20
+MERGED from [PlugeDevDemo:plugestand:unspecified] E:\project\workepace\myself\PlugeDevDemo\plugestand\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\God\.android\build-cache\c614bf47b706bd448de70a6bc53ca4feb2e407fc\output\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\God\.android\build-cache\8e1779c989460d5dc5255c9b4ac8c87e71f7e147\output\AndroidManifest.xml:22:5-23:19
+	android:label
+		ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:10:9-35
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\God\.android\build-cache\c614bf47b706bd448de70a6bc53ca4feb2e407fc\output\AndroidManifest.xml:22:18-91
+	android:roundIcon
+		ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.plugproject.MainActivity
+ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\God\.android\build-cache\458a426a3589a60c10909f4f2af3f56c7259e342\output\AndroidManifest.xml:5:5-7:41
+MERGED from [PlugeDevDemo:plugestand:unspecified] E:\project\workepace\myself\PlugeDevDemo\plugestand\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\God\.android\build-cache\b5cdd28ee227acaa4aa0765deb7245661cc9d885\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\God\.android\build-cache\e31a2d1afd0d1896401ee7b5de75900729609201\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\God\.android\build-cache\c270eed019fe5a4c4e951b210b98278cb10e695f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\God\.android\build-cache\7c8593e374dcc7b3bfb5dac2c080c7831fc8f402\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\God\.android\build-cache\c64e7ce6012121cb2732fdf7487285054c168a4b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\God\.android\build-cache\5bd24a7e5ad474cbec1ac101f17c3c35d30cb3cf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\God\.android\build-cache\0e35ef74c9dad9658b93985242d3f7059b00dcf3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\God\.android\build-cache\27820596e3d35bd3fbbf8b22a51172211a1146cf\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\God\.android\build-cache\b3cfa12d439d1a25dc4dc71d4a2dd689be922bb2\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\God\.android\build-cache\37662ce27f8a513e57907c764f0757e58133e094\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\God\.android\build-cache\b42f0c312751ee4f21f06a622ba3b8990c14746b\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\God\.android\build-cache\cdc84dc0892b6f78d4e9c1897d9ca628792f88db\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\God\.android\build-cache\586c1447de394074e8ca9dd697354d40227a8b2e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\God\.android\build-cache\aca4a9519033bc51dce15545c1508601e26734c5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\God\.android\build-cache\890d41adb32aaad61378b817c50c8a2e81ec6bb5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\God\.android\build-cache\22ab3dbe5f953143fe2d73ad9387ea93eb391e51\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\God\.android\build-cache\ec8b1076ec6d445ae16ce418110cfd0b93151ce4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\God\.android\build-cache\4f607b2cc005344b3695951cc68ebd720a8c47ab\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\God\.android\build-cache\e28aadcf13426bf3fa6c496a9f9c1f45e9790220\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\God\.android\build-cache\c0ddd128dd902aa7d577f45785d169b0e538ce50\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\God\.android\build-cache\e87a5cee9bd388d542dc5f67c7541b6667086119\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\God\.android\build-cache\e0c7b0480c2e4f9c0c10f09d7c3dc0a6afc6165e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\God\.android\build-cache\c614bf47b706bd448de70a6bc53ca4feb2e407fc\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\God\.android\build-cache\ea5373af299c31fc00ed5a62abee313ddb1e310e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\God\.android\build-cache\8e1779c989460d5dc5255c9b4ac8c87e71f7e147\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\God\.android\build-cache\eb897f52d3e98a673f1cdccb2891417b638a63de\output\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml
+		INJECTED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml
+		INJECTED from E:\project\workepace\myself\PlugeDevDemo\plugproject\src\main\AndroidManifest.xml
